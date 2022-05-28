@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luca</h1>
-<h3 align="center">A passionate corporate Software Engineer student at IBM</h3>
+<h3 align="center">A passionate corporate Software Engineering student at IBM</h3>
 
 - 🔭 I’m currently working on [an IoT Home Dashboard](https://github.com/LucaWeissbeck/Toskana-Frontend)
 
