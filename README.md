@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently deepening my knowledge on **Algorithms & Datastructures**
 
-- 👨‍💻 All of my projects are available at [lucaweissbeck.de](lucaweissbeck.de)
+- 👨‍💻 All of my projects are available at [lucaweissbeck.de](http://lucaweissbeck.de)
 
 - 💬 Ask me about **Python, React, Node.js**
 
