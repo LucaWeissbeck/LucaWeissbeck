@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [an IoT Home Dashboard](https://github.com/LucaWeissbeck/Toskana-Frontend)
 
-- 🌱 I’m currently deepening my knowledge on **Algorithms & Datastructures**
+- 🌱 I’m currently deepening my knowledge on **Java / SpringBoot**
 
 - 👨‍💻 All of my projects are available at [lucaweissbeck.de](http://lucaweissbeck.de)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **lucaweissbeck@yahoo.de**
 
-- 📄 Know about my experiences [http://lucaweissbeck.de/resources/Website_CV.pdf](http://lucaweissbeck.de/resources/Website_CV.pdf)
+- 📄 Know about my experiences [https://lucaweissbeck.de/resources/Website_CV.pdf](http://lucaweissbeck.de/resources/Website_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
