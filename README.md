@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently deepening my knowledge on **Java / SpringBoot**
 
-- 👨‍💻 All of my projects are available at [lucaweissbeck.de](http://lucaweissbeck.de)
+- 👨‍💻 All of my projects are available at [lucaweissbeck.com]([http://lucaweissbeck.de](https://lucaweissbeck.com/))
 
 - 💬 Ask me about **Python, React, Node.js**
 
 - 📫 How to reach me **lucaweissbeck@yahoo.de**
 
-- 📄 Know about my experiences [https://lucaweissbeck.de/resources/Website_CV.pdf](http://lucaweissbeck.de/resources/Website_CV.pdf)
+- 📄 Know about my experiences [https://lucaweissbeck.com/resources/Website_CV.pdf](http://lucaweissbeck.de/resources/Website_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
